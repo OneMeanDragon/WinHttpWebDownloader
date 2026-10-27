@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WinHttpWebDownloader.vcxproj" Id="360ceb5d-15e3-4602-a9eb-67357dbf84a5" />
+</Solution>
